@@ -1,0 +1,15 @@
+{
+  "name": "places-search-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/.bin/http-server ./ -a 127.0.0.1 -p 9006 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
