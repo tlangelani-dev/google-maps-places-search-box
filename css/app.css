@@ -73,10 +73,7 @@ body {
     font-size: 14px;
     margin: 0 0 10px 0;
     box-sizing: border-box;
-}
-
-#pac-input:focus {
-    border-color: #4d90fe;
+    outline: none;
 }
 
 #title {
